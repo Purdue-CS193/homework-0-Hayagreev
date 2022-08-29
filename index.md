@@ -1,7 +1,11 @@
-## Welcome to GitHub Pages
+# Hayagreev's First CS193 Homework
 
-Hello world
-_Hello World_
+- CS193 teaches me more about the tools I will need for a career in CS, and for my coursework
+- CS193 gives me a chance to meet other CS majors
+- CS193 will teach me to get more comfortable with vim, git, etc.
+
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
